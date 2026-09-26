@@ -1,4 +1,4 @@
-Student Attendance Management System
+#Student Attendance Management System
 
 A simple Python-based Student Attendance Management System that allows users to add students, mark attendance, and view attendance records.
 
